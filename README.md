@@ -15,7 +15,9 @@ If you have Nexus7 (2012 model), you can find the actual position of "Michibiki"
 Please look at the following for details (in Japanese)<br>
 http://android.ohwada.jp/michibiki_finder
 
-In order to build.<br>
+In order to build
+------------------
+
 Require the Java library<br>
 - sgp4<br>
 http://celestrak.com/publications/AIAA/2006-6753/
