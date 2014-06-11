@@ -1,7 +1,7 @@
 MichibikiFinder
 ===============
 
-Android application which find the Quasi-Zenith Satellite "Michibiki".
+Android app which find the Quasi-Zenith Satellite "Michibiki".
 
 
 "Michibiki" is going the earth around with the cycle of 23 hours and 56 minutes. <br>
@@ -15,10 +15,13 @@ If you have Nexus7 (2012 model), you can find the actual position of "Michibiki"
 Please look at the following for details (in Japanese)<br>
 http://android.ohwada.jp/michibiki_finder
 
+You can get the built app from Google Play
+https://play.google.com/store/apps/details?id=jp.ohwada.android.michibikifinder
+
 In order to build
 ------------------
 
-Require the Java library<br>
+Require the Java libraries<br>
 - sgp4<br>
 http://celestrak.com/publications/AIAA/2006-6753/
 - vecmath<br>
