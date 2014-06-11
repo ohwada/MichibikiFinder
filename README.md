@@ -1,4 +1,4 @@
-MichibikiFinder
+Michibiki Finder
 ===============
 
 Android app which find the Quasi-Zenith Satellite "Michibiki".
