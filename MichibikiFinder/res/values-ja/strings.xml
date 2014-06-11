@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">みちびきはどこ！</string>
+
+    <string name="checkbox_trace">自動でトレースする</string>
+ 
+     <string name="date">現在時</string> 
+     <string name="my_location">現在地</string> 
+      <string name="sat_location">みちびきの位置</string> 
+     <string name="azimuth">方位角</string> 
+     <string name="elevation">仰角</string> 
+     <string name="loc_default">デフォルト</string> 
+     <string name="pre_north">北緯</string> 
+     <string name="pre_south">南緯</string> 
+     <string name="pre_west">西経</string> 
+     <string name="pre_east">東経</string> 
+     <string name="post_north"></string> 
+     <string name="post_south"></string> 
+     <string name="post_west"></string> 
+     <string name="post_east"></string> 
+
+    <string name="dialog_message">GPSが有効になっていません。\n有効にしますか？</string> 
+    <string name="btn_enable">有効にする (設定画面)</string> 
+    <string name="btn_cancel">キャンセル</string> 
+                            
+</resources>

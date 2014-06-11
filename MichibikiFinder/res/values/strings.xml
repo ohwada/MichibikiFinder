@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Michibiki Finder</string>
+
+    <string name="checkbox_trace">Auto Trace</string>
+ 
+     <string name="date">Date</string> 
+     <string name="my_location">My Location</string> 
+     <string name="sat_location">Satellite Location</string> 
+     <string name="azimuth">Azimuth</string> 
+     <string name="elevation">Elevation</string> 
+     <string name="loc_default">Default</string> 
+     <string name="pre_north"></string> 
+     <string name="pre_south"></string> 
+     <string name="pre_west"></string> 
+     <string name="pre_east"></string> 
+     <string name="post_north">N</string> 
+     <string name="post_south">S</string> 
+     <string name="post_west">W</string> 
+     <string name="post_east">E</string> 
+ 
+     <string name="dialog_message">GPS is diabled. \nEnable GPS ?</string>
+    <string name="btn_enable">Enable (Setting Page)</string> 
+    <string name="btn_cancel">Cancel</string>
+                                
+</resources>

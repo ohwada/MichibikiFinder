@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea
+END
+NmeaSatellite.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea/NmeaSatellite.java
+END
+NmeaFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea/NmeaFactory.java
+END
+NmeaGpgga.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea/NmeaGpgga.java
+END
+NmeaCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea/NmeaCommon.java
+END
+NmeaGpgsv.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea/NmeaGpgsv.java
+END
+NmeaGpgsvList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea/NmeaGpgsvList.java
+END
+NmeaGprmc.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea/NmeaGprmc.java
+END
+NmeaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea/NmeaManager.java
+END
+NmeaGpgsa.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/454/trunk/GpsStatusSample2/src/jp/ohwada/android/nmea/NmeaGpgsa.java
+END
